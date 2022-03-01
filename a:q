@@ -1,0 +1,7 @@
+user.name=Symon Nascimento Simon
+user.email=symon_nascimento@hotmail.com
+credential.helper=/mnt/c/Program\ Files/Git/mingw64/libexec/git-core/git-credential-manager-core.exe
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
